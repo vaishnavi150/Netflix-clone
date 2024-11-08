@@ -9,18 +9,9 @@ const Footer = () => {
 						target='_blank'
 						className='font-medium underline underline-offset-4'
 					>
-						you
+						vaishnavi
 					</a>
-					. The source code is available on{" "}
-					<a
-						href='https://github.com/burakorkmez'
-						target='_blank'
-						rel='noreferrer'
-						className='font-medium underline underline-offset-4'
-					>
-						GitHub
-					</a>
-					.
+
 				</p>
 			</div>
 		</footer>
